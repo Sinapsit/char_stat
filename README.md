@@ -13,3 +13,11 @@ name@machine:~$ python counter.py
 Enter text: aaaaaaaaaaaaaaaaaaaaacccccccccccccccccccccddddddddddddddddddddddddd
 a:21, b:0, c:21
 ```
+Имеется возможность указать произвольное ограничение для вывода промежуточной 
+статистики с помощью аргумента `--limit`.
+
+##### Пример:
+
+```
+
+```
